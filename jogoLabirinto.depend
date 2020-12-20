@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607761008 source:d:\curso programador web ufrn\jogolabirinto\main.c
+	<stdio.h>
+	<stdlib.h>
+
